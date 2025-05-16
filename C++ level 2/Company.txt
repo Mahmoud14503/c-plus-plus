@@ -1,0 +1,14 @@
+
+===============Show Employees Data===============
+
+========= Emp #1 =========
+ID=1783	Name=mohamed1	Salary=6000
+NumOfChildren=3, children=[ali omar mahmoud ]
+
+========= Emp #2 =========
+ID=1784	Name=mohamed2	Salary=6500
+NumOfChildren=1, children=[abdo ]
+
+========= Emp #3 =========
+ID=1785	Name=mohamed3	Salary=9000
+NumOfChildren=9, children=[mahmoud alj ali aly karim hesham fatima hussien hassanien ]
